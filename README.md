@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Letícia Ferreira Teixeira</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=letsft&label=Profile%20views&color=0e75b6&style=flat" alt="letsft" /> </p>
-
 - 🌱 I’m currently learning **Backend Development**
 
 - 📫 How to reach me **letsferreiratx@gmail.com**
